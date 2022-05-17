@@ -1,1 +1,1 @@
-# SyntaxReader.github.io
+# Syntax-Reader.github.io
